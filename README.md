@@ -1,9 +1,9 @@
 # Hi 👋, I'm Nicolás
 ### A 3rd year Computer Engineering student at Universidad de Los Andes, Colombia
 
-- 🌱 I’m currently learning **React, Django, Cloud Computing and C++**
+- 🌱 I’m currently learning: **React, Django, Cloud Computing and C++**
 
-- 📫 How to reach me **nklopstock@gmail.com**
+- 📫 How to reach me: **nklopstock@gmail.com**
 
 ## Skills:
 
