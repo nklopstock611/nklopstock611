@@ -1,7 +1,7 @@
 # Hi 👋, I'm Nicolás
 ### A 3rd year Software Engineering student at Universidad de Los Andes, Colombia
 
-- 🌱 I’m currently learning **React-Native, Scikit-Learn & Data Science**
+- 🌱 I’m currently learning **React-Native & Data Science Oriented Tools**
 
 - 📫 How to reach me: **nklopstock@gmail.com**
 
