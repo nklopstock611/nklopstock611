@@ -1,5 +1,5 @@
 # Hi 👋, I'm Nicolás
-### A 3rd year Computer & Systems Engineering student at Universidad de Los Andes, Colombia
+### A 4rd year Computer & Systems Engineering student at Universidad de Los Andes, Colombia
 
 - 🌱 I’m currently learning **React-Native & Data Science Oriented Tools**
 
