@@ -1,5 +1,5 @@
 # Hi 👋, I'm Nicolás
-### 4th year Computer & Systems Engineering student at Universidad de Los Andes, Colombia
+### 4th year Systems & Computing Engineering student at Universidad de Los Andes, Colombia
 
 - 🌱 I’m currently learning **Flutter & Data Science Oriented Tools**
 
