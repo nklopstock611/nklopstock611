@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,java,ts,js,latex,html,css,cpp,r,dart&perline=14" />
-    <img src="https://skillicons.dev/icons?i=postgres,firebase,mongodb,nestjs,p5js,postman,django,fastapi,flutter,sklearn,docker&perline=16" />
+    <img src="https://skillicons.dev/icons?i=git,postgres,firebase,mongodb,nestjs,p5js,postman,django,fastapi,flutter,sklearn,docker&perline=16" />
     <img src="https://skillicons.dev/icons?i=vscode,notion&perline=14" />
   </a>
 </p>
