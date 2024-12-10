@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Kafka** and other **Data Engineering oriented tools**
 
-- 📫 How to reach me: **nklopstock@gmail.com**
+- 📫 How to reach me: **klopstocknicolas@gmail.com**
 
 ## Skills:
 
