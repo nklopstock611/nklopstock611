@@ -1,7 +1,7 @@
 # Hi 👋, I'm Nicolás
 ### 4th year Systems & Computing Engineering student at Universidad de Los Andes, Colombia
 
-- 🌱 I’m currently learning **Flutter & Data Science Oriented Tools**
+- 🌱 I’m currently learning **Kafka** and other **Data Engineering oriented tools**
 
 - 📫 How to reach me: **nklopstock@gmail.com**
 
