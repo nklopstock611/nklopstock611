@@ -1,5 +1,5 @@
 # Hi 👋, I'm Nicolás
-### 4th year Systems & Computing Engineering student at Universidad de Los Andes, Colombia
+### Systems & Computing Engineer from Universidad de Los Andes, Colombia
 
 - 🌱 I’m currently learning **Kafka** and other **Data Engineering oriented tools**
 
